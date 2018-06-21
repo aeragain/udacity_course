@@ -1,4 +1,4 @@
-#Project Movie Trailer Website
+# Project Movie Trailer Website
 
 ---
 - Introduction
@@ -11,7 +11,7 @@
 ---
 
 ---
-- Excute
+- Execute
 	-  Run "python entertainment_center.py" with the command line to check the program
 	-  result is as follows:
 
